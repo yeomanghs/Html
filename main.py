@@ -8,7 +8,8 @@ AreaList = ['Data Manipulation/Wrangling',
 
 AreaToTaskList_Dict = {'Data Manipulation/Wrangling':['PdfToTable', 'Manipulate Excel Data'],
                         'Data Scraping':['Doctor Database', "Durham's website"],
-                        'Data Analysis & Visualization':['Firm Performance', 'Spanish Sentiment Analysis'],
+                        'Data Analysis & Visualization':['Firm Performance', 'Spanish Sentiment Analysis',
+                                                        'Network Analysis'],
                         'Machine Learning':['Classification of Student Enrolment']}
 
 TaskToFile_Dict = {
@@ -41,6 +42,11 @@ TaskToFile_Dict = {
                         {
                         'Title':'Spanish Sentiment Analysis',
                         'Filename':"2022-04-26_SentimentAnalysisSpanish_Html.html"
+                        },
+                    'Network Analysis':
+                        {
+                        'Title':'Network Analysis of Mule Accounts',
+                        'Filename':"2020-09-03_NetworkAnalysis.html"
                         },
                     'Classification of Student Enrolment':
                         {
