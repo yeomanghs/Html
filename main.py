@@ -7,7 +7,7 @@ AreaList = ['Data Manipulation/Wrangling',
             'Machine Learning']
 
 AreaToTaskList_Dict = {'Data Manipulation/Wrangling':['PdfToTable', 'Manipulate Excel Data'],
-                        'Data Scraping':['Doctor Database', "Durham's website"],
+                        'Data Scraping':['Google Map API', 'Doctor Database', "Durham's website"],
                         'Data Analysis & Visualization':['Firm Performance', 'Spanish Sentiment Analysis',
                                                         'Network Analysis'],
                         'Machine Learning':['Classification of Student Enrolment']}
@@ -22,6 +22,11 @@ TaskToFile_Dict = {
                         {
                         'Title':'Manipulating and analyzing data in Excel',
                         'Filename':"2021-10-03_DataManipulation.html"
+                        }, 
+                    'Google Map API':
+                        {
+                        'Title':'Scraping Data from Google Map API',
+                        'Filename':"2021-08-31_LocationInfoGoogleAPI.html"
                         }, 
                     'Doctor Database':
                         {
