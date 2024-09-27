@@ -6,7 +6,7 @@ AreaList = ['Data Manipulation/Wrangling',
             'Data Analysis & Visualization',
             'Machine Learning']
 
-AreaToTaskList_Dict = {'Data Manipulation/Wrangling':['PdfToTable', 'Manipulate Excel Data'],
+AreaToTaskList_Dict = {'Data Manipulation/Wrangling':['PdfToTable', 'Manipulate Excel Data', 'Clean LinkedIn Data'],
                         'Data Scraping':['Google Map API', 'Doctor Database', "Durham's website"],
                         'Data Analysis & Visualization':['Firm Performance', 'Spanish Sentiment Analysis',
                                                         'Network Analysis'],
@@ -22,6 +22,11 @@ TaskToFile_Dict = {
                         {
                         'Title':'Manipulating and analyzing data in Excel',
                         'Filename':"2021-10-03_DataManipulation.html"
+                        }, 
+                    'Clean LinkedIn Data':
+                        {
+                        'Title':'Cleaning and manipulating LinkedIn Data',
+                        'Filename':"LinkedIn_DataManipulation.html"
                         }, 
                     'Google Map API':
                         {
