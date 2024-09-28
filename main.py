@@ -70,9 +70,16 @@ TaskToFile_Dict = {
                         }                        
                     }
 
+#upwork link
+url = 'https://www.upwork.com/freelancers/~010480e83de210d1f8'
+
 #sidebar to area
 area = st.sidebar.radio("Select an area",
                         AreaList)
+
+#
+st.write('Name: Goh Jiun Shyan')
+st.write('My upwork [link]:%s '%url)
 
 #select task 
 task = st.selectbox('Select a task',
