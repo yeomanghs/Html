@@ -31,7 +31,7 @@ TaskToFile_Dict = {
                     'Google Map API':
                         {
                         'Title':'Scraping Data from Google Map API',
-                        'Filename':"2021-08-31_LocationInfoGoogleAPI.html"
+                        'Filename':"GoogleMapAPI.html"
                         }, 
                     'Doctor Database':
                         {
