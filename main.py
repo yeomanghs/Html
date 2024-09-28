@@ -28,7 +28,7 @@ TaskToFile_Dict = {
                         'Title':'Cleaning and manipulating LinkedIn Data',
                         'Filename':"LinkedIn_DataManipulation.html"
                         }, 
-                    'Build Spark DataFrame'':
+                    'Build Spark DataFrame':
                         {
                         'Title':'Reading and transforming data into Spark DataFrame',
                         'Filename':"sparks dataframe.html"
