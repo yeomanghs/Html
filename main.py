@@ -78,8 +78,8 @@ area = st.sidebar.radio("Select an area",
                         AreaList)
 
 #
-st.write('Name: Goh Jiun Shyan')
-st.write('My upwork [link]:%s '%url)
+st.write('**Name: Goh Jiun Shyan**')
+st.write('**My upwork [link]:%s**'%url)
 
 #select task 
 task = st.selectbox('Select a task',
